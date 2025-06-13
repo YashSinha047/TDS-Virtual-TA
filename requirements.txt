@@ -1,0 +1,20 @@
+# FastAPI server and CORS
+fastapi
+uvicorn
+
+# Data handling
+numpy
+pydantic
+python-dotenv
+
+# OpenAI SDK
+openai
+
+# Vector search
+faiss-cpu
+
+# Embedding models
+sentence-transformers
+
+# Optional (if you're reading JSONL or handling file IO)
+tqdm
