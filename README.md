@@ -176,7 +176,7 @@ We used **Promptfoo** to conduct systematic prompt evaluations across various qu
 📄 License
 ----------
 
-This project is licensed under the [MIT License](https://grok.com/chat/LICENSE).
+This project is licensed under the [MIT License].
 
 * * * * *
 
